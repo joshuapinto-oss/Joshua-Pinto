@@ -1,6 +1,6 @@
 # Hi, I'm Joshua Pinto 👋
 
-🎓 AIML Student | 2nd Year 
+🎓 AIML Student | 2nd Year |
 💼 ML Intern @ SkillCraft Technology
 📧 joshuapinto1107@gmail.com
 
